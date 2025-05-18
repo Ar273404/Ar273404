@@ -16,8 +16,8 @@
 - 🌱 Learning: **Data Structures, System Design, and Backend Architecture**  
 - 💼 Built full-stack projects like **MediTrack (Hospital Management System)** and **Handy (Skilled Worker Hiring Platform)**  
 - 📫 Reach me at: **arun273404@gmail.com**  
-- 🌐 Portfolio: [final-portfolio-fronted.vercel.app](https://final-portfolio-fronted.vercel.app/)  
-- 📄 [View My Resume](https://drive.google.com/file/d/1LaPULMJw9y2sZvtKMUSfFHNMmIDhuyZW/view)
+- 🌐 Portfolio: [My Portfolio](https://final-portfolio-fronted.vercel.app/)  
+- 📄 [View My Resume](https://drive.google.com/file/d/1zxWdrN4yrMe17CuWXszMQVfFTciUB2kS/view?usp=sharing )
 
 ---
 
